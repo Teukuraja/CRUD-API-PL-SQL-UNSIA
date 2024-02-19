@@ -76,8 +76,8 @@ Ganti ' <url_repositori> ' dengan URL repositori proyek yang Anda salin.
 ```
   # 9.  Install Depedensi:
      Instal semua depedensi yang di perlukan dari file ' requiretments.txt ' :
-```
-     bash
+
+    ``` bash
           pip install -r requirements.txt
 ```
 # 10. Makemidration Database :
