@@ -75,10 +75,11 @@ Ganti ' <url_repositori> ' dengan URL repositori proyek yang Anda salin.
        source venv/bin/activate
 ```
   # 9.  Install Depedensi:
-     Instal semua depedensi yang di perlukan dari file ' requiretments.txt ' :
+Instal semua depedensi yang di perlukan dari file ' requiretments.txt ' :
 
-    ``` bash
-          pip install -r requirements.txt
+
+``` bash
+pip install -r requirements.txt
 ```
 # 10. Makemidration Database :
 
