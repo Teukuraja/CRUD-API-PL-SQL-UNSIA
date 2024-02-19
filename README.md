@@ -44,7 +44,8 @@ Ganti ' <url_repositori> ' dengan URL repositori proyek yang Anda salin.
   gantilah ' username ' dan ' password ' sesuai dengan kredesial basis data Anda.
 
 # 4. Instal python 3 :
-   Pastikan python 3 telah terinstal di komputer anda, jika belum unduh dan instal Python 3 dari web resminya.
+
+Pastikan python 3 telah terinstal di komputer anda, jika belum unduh dan instal Python 3 dari web resminya.
    [Download python](https://www.python.org/downloads/0)
 
 # 6. Instal Virtual Environment :
@@ -83,17 +84,18 @@ pip install -r requirements.txt
 ```
 # 10. Makemidration Database :
 
-    Buat Migrasi untuk skruktur database :
-   
-  ``` bash
-      flask db stamp head
-      flask db migrate -m 'your descriptive message'
-      flask db upgrade
+Buat Migrasi untuk skruktur database :
+
+``` bash
+        flask db stamp head
+        flask db migrate -m 'your          descriptive message'
+        flask db upgrade
 ```
+
 # 11. Jalankan Server :
 Jalankan server flask
 
-   ``` bash
+``` bash
         flask run
 ```
 # Manajemen Pengguna
