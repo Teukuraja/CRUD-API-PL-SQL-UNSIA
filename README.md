@@ -48,19 +48,19 @@ Ganti ' <url_repositori> ' dengan URL repositori proyek yang Anda salin.
 Pastikan python 3 telah terinstal di komputer anda, jika belum unduh dan instal Python 3 dari web resminya.
    [Download python] (https://www.python.org/downloads/)
 
-# 6. Instal Virtual Environment :
+# 5. Instal Virtual Environment :
    Buka terminal atau commad prompt dan jalankan perintah berikut :
 
 ``` bash 
     pip3 install virtualenv
 ```
-# 7. Instal Virtual Environment :
+# 6. Instal Virtual Environment :
    Buat virtual environment di dalam folder proyek:
 
    ```bash
         python -m venv venv
 ```
-# 8. Aktifkan Virtual Environment :
+# 7. Aktifkan Virtual Environment :
 
    Aktifkan virtual environment :
    
@@ -75,14 +75,14 @@ Pastikan python 3 telah terinstal di komputer anda, jika belum unduh dan instal 
  ``` bash
        source venv/bin/activate
 ```
-  # 9.  Install Depedensi:
+  # 8.  Install Depedensi:
 Instal semua depedensi yang di perlukan dari file ' requiretments.txt ' :
 
 
 ``` bash
 pip install -r requirements.txt
 ```
-# 10. Makemidration Database :
+# 9. Makemidration Database :
 
 Buat Migrasi untuk skruktur database :
 
@@ -92,7 +92,7 @@ Buat Migrasi untuk skruktur database :
         flask db upgrade
 ```
 
-# 11. Jalankan Server :
+# 10. Jalankan Server :
 Jalankan server flask
 
 ``` bash
