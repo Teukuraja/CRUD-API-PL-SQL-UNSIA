@@ -21,7 +21,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah memasang semua komponen be
 - Dokumentasi Dan SDLC                                  : https://docs.google.com/document/d/1BjIUE2NqkHT2bopf_RZDlCFpTCDCB35v/edit?usp=sharing&ouid=116645460702152754144&rtpof=true&sd=true
 - Postman                                               : https://drive.google.com/file/d/1m26VZsVPDDduL1bLteDSEUI-qDbYk9ov/view?usp=sharing
 
-Berikut ini adalah Langkah- Langkah Menjalankan Aplikasi Yang Melibatkan CRUD dan Trigger Log , Beserta, langkah-langkah Untuk Membuat , Mejalankan, dan Mengelola aplikasi tersebut:
+Berikut ini adalah Langkah - Langkah Menjalankan Aplikasi Yang Melibatkan CRUD dan Trigger Log , Beserta, langkah-langkah Untuk Membuat , Mejalankan, dan Mengelola aplikasi tersebut:
 # Langkah-Langkah Running Aplikasi: 
 
 # 1. Clnone Proyek 
@@ -46,7 +46,7 @@ Ganti ' <url_repositori> ' dengan URL repositori proyek yang Anda salin.
 # 4. Instal python 3 :
 
 Pastikan python 3 telah terinstal di komputer anda, jika belum unduh dan instal Python 3 dari web resminya.
-   [Download python](https://www.python.org/downloads/0)
+   [Download python] (https://www.python.org/downloads/)
 
 # 6. Instal Virtual Environment :
    Buka terminal atau commad prompt dan jalankan perintah berikut :
@@ -55,7 +55,7 @@ Pastikan python 3 telah terinstal di komputer anda, jika belum unduh dan instal 
     pip3 install virtualenv
 ```
 # 7. Instal Virtual Environment :
-   Buat virtua environment di dalam folder proyek:
+   Buat virtual environment di dalam folder proyek:
 
    ```bash
         python -m venv venv
