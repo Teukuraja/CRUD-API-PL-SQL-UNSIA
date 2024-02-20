@@ -88,7 +88,7 @@ Buat Migrasi untuk skruktur database :
 
 ``` bash
         flask db stamp head
-        flask db migrate -m 'your          descriptive message'
+        flask db migrate -m 'your descriptive message'
         flask db upgrade
 ```
 
