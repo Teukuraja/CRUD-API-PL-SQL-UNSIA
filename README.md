@@ -46,7 +46,7 @@ Ganti ' <url_repositori> ' dengan URL repositori proyek yang Anda salin.
 # 4. Instal python 3 :
 
 Pastikan python 3 telah terinstal di komputer anda, jika belum unduh dan instal Python 3 dari web resminya.
-   [Download python] (https://www.python.org/downloads/)
+   [Download python](https://www.python.org/downloads/)
 
 # 5. Instal Virtual Environment :
    Buka terminal atau commad prompt dan jalankan perintah berikut :
